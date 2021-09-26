@@ -1,0 +1,119 @@
+[
+    {
+      "name": "Rubber Plants",
+      "id": 1,
+      "price": 21,
+      "carelevel": "Intermediate",
+      "lightLevel": "40 ft-c",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/corner-of-a-stylish-living-room-royalty-free-image-638859268-1553272443.jpg?crop=0.947xw:0.949xh;0.0527xw,0.0511xh&resize=980:*",
+      "pros": "One of the best natural air-cleaners."
+    },
+    {
+      "name": "String of Pearls",
+      "id": 2,
+      "price": 15,
+      "carelevel": "Easy to Intermediate",
+      "lightLevel": "20 ft-c",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tender-and-unusual-string-of-pearls-weirdest-royalty-free-image-869615030-1553272264.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "pros": "You will quickly have lengthy strands of pearls by leaving this plant in bright."
+    },
+    {
+      "name": "Pilea",
+      "id": 3,
+      "price": 12,
+      "carelevel": "Intermediate",
+      "lightLevel": "10 ft-c",
+      "img": "https://hips.hearstapps.com/hbu.h-cdn.co/assets/17/27/1499286008-chinese-money-plant.jpg?crop=1.0xw:1xh;center,top&resize=980:*",
+      "pros": " a great plant to help you with air purity."
+    },
+    {
+      "name": "Fiddle-Leaf Fig",
+      "id": 4,
+      "price": 26,
+      "carelevel": "Easy",
+      "lightLevel": "30 ft-c",
+      "img": "https://hips.hearstapps.com/hbu.h-cdn.co/assets/15/30/1437670199-fiddle-leaf-fig.jpg?crop=1.0xw:1xh;center,top&resize=980:*",
+      "pros": " Place it in a corner to create a dramatic focal point, like in this apartment over at Design Sponge."
+    },
+    {
+      "name": "Sweetheart Plant",
+      "id": 5,
+      "price": 27,
+      "carelevel": "Easy",
+      "lightLevel": "15 ft-c",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/top-view-of-sweetheart-plant-royalty-free-image-1580854557.jpg?crop=0.445xw:0.997xh;0.484xw,0&resize=980:*",
+      "pros": "It can be sold as either a single leaf-cutting or a whole trailing plant."
+    },
+    {
+      "name": "Anthurium",
+      "id": 6,
+      "price": 30,
+      "carelevel": "Intermediate",
+      "lightLevel": "25 ft-c",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pink-anthurium-flower-royalty-free-image-898519468-1553277047.jpg?crop=1xw:0.99953xh;center,top&resize=980:*",
+      "pros": "They are not low-maintenance, but not high-maintenance."
+    },
+    {
+      "name": "Bird of Paradise",
+      "id": 7,
+      "price": 47,
+      "carelevel": "Intermediate",
+      "lightLevel": "50 ft-c",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bright-living-room-with-a-large-house-plant-copy-royalty-free-image-1580854667.jpg?crop=0.479xw:0.998xh;0.0241xw,0&resize=980:*",
+      "pros": "Theirs leaves are so decent to fresh your mind."
+    },
+    {
+      "name": "Snake Plant",
+      "id": 8,
+      "price": 23,
+      "carelevel": "Easy",
+      "lightLevel": "70 ft-c",
+      "img": "https://hips.hearstapps.com/hbu.h-cdn.co/assets/15/30/1437667747-snake-plant.jpg?crop=0.9277777777777777xw:1xh;center,top&resize=980:*",
+      "pros": "Add interest to an empty corner in your hall."
+    },
+    {
+      "name": "Begonia",
+      "id": 9,
+      "price": 19,
+      "carelevel": "Easy",
+      "lightLevel": "13 ft-c",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rex-cultorum-type-of-begonia-with-large-high-res-stock-photography-55857155-1553275756.jpg?crop=0.672xw:1.00xh;0.218xw,0&resize=980:*",
+      "pros": " a great plant to help you with air purity."
+    },
+    {
+      "name": "Kalanchoe",
+      "id": 10,
+      "price": 19,
+      "carelevel": "Easy",
+      "lightLevel": "20 ft-c",
+      "img": "https://hips.hearstapps.com/hbu.h-cdn.co/assets/15/25/1434398047-gettyimages-150096970.jpg?crop=0.9997644287396938xw:1xh;center,top&resize=980:*",
+      "pros": "Kalanchoe makes for a marvelous mood booster in the kitchen."
+    },
+    {
+      "name": "Calatheas",
+      "id": 11,
+      "price": 57,
+      "carelevel": "Intermediate",
+      "lightLevel": "30 ft-c",
+      "img": "https://hips.hearstapps.com/hbu.h-cdn.co/assets/17/27/1499283708-calathea.jpg?crop=1.0xw:1xh;center,top&resize=980:*",
+      "pros": " A great plant help you to decore your house."
+    },
+    {
+      "name": "Gardenia",
+      "id": 12,
+      "price": 58,
+      "carelevel": "Expert",
+      "lightLevel": "70 ft-c",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/blooming-gardenia-jasmine-royalty-free-image-909875410-1553276646.jpg?crop=0.879xw:0.881xh;0.121xw,0.119xh&resize=980:*",
+      "pros": " There is nothing quite like the intoxicating scent of gardenia flowers, but special attention is required to get blooms to appear."
+    },
+    {
+      "name": "Kentia Palm",
+      "id": 13,
+      "price": 80,
+      "carelevel": "Intermediate",
+      "lightLevel": "40 ft-c",
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/open-balcony-with-a-kentia-royalty-free-image-471284313-1553275905.jpg?crop=1xw:0.99953xh;center,top&resize=980:*",
+      "pros": " a great plant to help you with air purity."
+    }
+  ]

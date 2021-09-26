@@ -1,0 +1,8 @@
+.plantinfo{
+    border: 2px solid rgba(153, 205, 50, 0.904);
+}
+.button{
+    background-color: rgba(153, 205, 50, 0.904);
+    color:black;
+    padding: 1px 20px;
+}
